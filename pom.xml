@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.hello</groupId>
-	<artifactId>DiscountManagemenetAppApi</artifactId>
+	<artifactId>DiscountManagementAppApi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>DiscountManagemenetAppApi</name>
+	<name>DiscountManagementAppApi</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -27,7 +27,7 @@
 		<url/>
 	</scm>
 	<properties>
-		<java.version>22</java.version>
+		<java.version>21</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -78,3 +78,5 @@
 	</build>
 
 </project>
+
+
